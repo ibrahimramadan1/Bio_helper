@@ -1,8 +1,6 @@
 // Program: Bio_helper
 // Purpose: using inheritance, polymorphism, templates, and exception handling among other OOP concepts in C++.
-// Author:  Ibrahim Ramadan 20170002
-//          Athar Atef      20170005
-//          Ahmed Elsayed   20170011
+// Author:  Ibrahim Ramadan 
 // Date:    13 Dec.  2018
 // Version: 1.0
 
